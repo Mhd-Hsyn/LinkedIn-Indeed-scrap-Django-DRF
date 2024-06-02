@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+myenv/
+.myenv/
+.Python
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Python bytecode
+__pycache__/
+
+# Caches and local data
+.cache/
+.local/
+
+db.sqlite3

@@ -1,0 +1,74 @@
+#,name,transporter_id,overall_tier,delivered,key_focus_area,fico_score,seatbelt_off_rate,speeding_event_rate,distractions_rate,following_distance_rate,sign_signal_violations_rate,cdf,ced,dcr,dsb,swcpod,swccc,swcad,dsb_dnr,pod_opps.,cc_opps.
+1,Jorge Maldonadoperez,AL3VKTF0J7AN1,Fantastic,90,,Coming Soon,0,0,0,0,0,Coming Soon,0,100.0%,0,100.0%,100.0%,0,0,70,1
+2,Robert Pomales,A3H77IZ9KS271T,Fantastic,559,POD,Coming Soon,0,0,0,0,0,100.0%,0,100.0%,0,99.1%,100.0%,0,0,343,172
+3,Connor Lavan,AS3GMNL1ILP3X,Fantastic,323,POD,Coming Soon,0,0,0,0,0,Coming Soon,0,100.0%,0,99.6%,Coming Soon,0,0,244,0
+4,Paul Ramirez-Uchuya,A16B76TZXL4GDV,Fantastic,1026,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.9%,0,100.0%,100.0%,0,0,703,3
+5,Ruben Flores,A5W4KN42SU4PZ,Fantastic,793,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.9%,0,99.3%,100.0%,0,0,583,6
+6,William Hernandez,A1UKDRW7P4VTMQ,Fantastic,1020,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.8%,0,99.5%,100.0%,0,0,608,69
+7,Claudine Legagneur,AVAF1W9PV67SI,Fantastic,1213,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.7%,0,99.9%,100.0%,0,0,863,842
+8,Jaleel Berry,A19Z89FVKOSP96,Fantastic,518,DCR,Coming Soon,0,0,0,0,0,Coming Soon,0,99.8%,0,98.6%,Coming Soon,0,0,369,0
+9,Antonio Sousa,A13YJ1N2FZU7VP,Fantastic,834,SOR,Coming Soon,0.3,0,0,0,0,100.0%,0,99.9%,0,98.6%,100.0%,0,0,562,10
+10,James Hayes,AIMQHNPX9C8Q0,Fantastic,164,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.4%,0,100.0%,100.0%,0,0,107,110
+11,Michael Conover,ABB18IDIIF33H,Fantastic,78,POD,Coming Soon,Coming Soon,Coming Soon,Coming Soon,Coming Soon,Coming Soon,100.0%,0,100.0%,0,96.4%,100.0%,0,0,56,2
+12,Raquel GuimaraesOliveira,A2ZQZAHWCYOU4D,Fantastic,602,DCR,Coming Soon,0,0,0,0,0,Coming Soon,0,99.5%,0,100.0%,100.0%,0,0,456,4
+,13 Moutakabiryemalin Bakari,AW1INM4PMPR5Q,Fantastic,831,SOR,Coming Soon,0.3,0,0.3,0,0,100.0%,0,99.8%,0,99.6%,100.0%,0,0,560,18
+14,Juan Alvarez,A2RFY07IN1CVZU,Fantastic,616,CC,Coming Soon,0,0,0,0,0,100.0%,0,99.7%,0,99.3%,92.9%,0,0,431,14
+15,Carlos Paz-Paniagua,A10E18VVWN2F9R,Fantastic,803,DCR,Coming Soon,0,0.3,0,0,0,100.0%,0,99.4%,0,100.0%,100.0%,0,0,537,3
+16,Andres Rengifo,AOLJMQA5HI5SL,Fantastic,791,DCR,Coming Soon,0,0.3,0,0,0,Coming Soon,0,99.6%,0,99.4%,Coming Soon,0,0,490,0
+17,Howard Dorsey,A2R90FKD4JDSIF,Fantastic,1113,CDF,Coming Soon,0,0,0,0,0,96.1%,0,99.8%,0,100.0%,100.0%,0,0,561,7
+18,Francisco MurilloSanchez,A18LTNRAR0BG3S,Fantastic,126,DR,Coming Soon,0,0,1,0,0,100.0%,0,100.0%,0,98.6%,Coming Soon,0,0,74,0
+19,Jaime RoldanQuito,A2E1KS7HB7IYG4,Fantastic,1225,CDF,Coming Soon,0,0.3,0,0,0,97.5%,0,99.8%,0,100.0%,100.0%,0,0,873,2
+20,Caolina salado,AVBWEHUFX7LFE,Fantastic,898,DCR,Coming Soon,0,0,0,0,0,Coming Soon,0,99.2%,0,99.8%,100.0%,0,0,583,1
+,21 Nohenne Vasquezpolanco,A3856LF42SRCW5,Fantastic,924,CDF,Coming Soon,0,0,0,0,0,96.8%,0,99.4%,0,99.0%,100.0%,0,0,673,20
+22,Gadiel Rivera,A1PMMF99HW103C,Fantastic,16,SER,Coming Soon,0,1,0,0,0,Coming Soon,0,100.0%,0,100.0%,100.0%,0,0,14,2
+23,Mohamed Alghali,A1F256DXIE0T83,Fantastic,201,DCR,Coming Soon,0,0,0,0,0,100.0%,0,99.0%,0,86.0%,100.0%,0,0,121,4
+24,Luis Mani,AJUWHBOFZ1XIM,Fantastic,1301,CDF,Coming Soon,0,0,0,0,0,93.2%,0,99.8%,0,99.9%,100.0%,0,0,803,4
+25,Julvens JulesVincent,A2XBOW30CM16U4,Fantastic,1000,CDF,Coming Soon,0,0,0,0,0,92.8%,0,99.9%,0,99.8%,100.0%,0,0,496,20
+26,Maria Lopezbustamante,A14FZHFOH713KW,Fantastic,959,CDF,Coming Soon,0,0,0,0,0,93.4%,0,99.7%,0,99.9%,100.0%,0,0,675,9
+27,Khalid Boukassime,A89EPOE3KNFSM,Fantastic,1156,DSB,Coming Soon,0,0,0,0,0,100.0%,0,100.0%,1730,99.8%,100.0%,0,2,581,8
+28,Ruth Ramosleon,A1IZ0K6KARZR5Q,Fantastic,813,CDF,Coming Soon,0,0,0,0,0,91.6%,0,100.0%,0,99.8%,100.0%,0,0,452,10
+29,Evineshka CorreaJimenez,A1CIHST2254310,Fantastic,1097,CDF,Coming Soon,0,0,0,0,0,91.6%,0,99.7%,0,99.2%,100.0%,0,0,771,11
+30,Andrew Rowe,ATHDN13W07UUD,Fantastic,1261,CDF,Coming Soon,0,0,0,0,0,90.7%,0,99.9%,0,100.0%,100.0%,0,0,866,3
+31,Adonis Vasquez,A1PR3XK6IVQMXH,Fantastic,571,CDF,Coming Soon,0,0,0,0,0,85.4%,0,100.0%,0,100.0%,Coming Soon,0,0,356,0
+32,Ramon Robles,A2BQJ0V6PJBOXI,Fantastic,769,CDF,Coming Soon,0,0,0,0,0,87.2%,0,100.0%,0,99.8%,100.0%,0,0,524,28
+33,Jorge PolancoRosa,A26BBLAKWMDXX7,Fantastic,1171,CDF,Coming Soon,0,0,0,0,0,91.0%,0,99.6%,0,99.9%,100.0%,0,0,807,9
+35,Nathanael Dalencour,A3CML5OLRXU6AF,Fantastic,1121,CDF,Coming Soon,0,0,0.3,0,0,91.2%,0,99.7%,0,98.3%,100.0%,0,0,482,3
+,36 Andres TamamiAgualongo,A1KS42CK97SZNC,Fantastic,721,CDF,Coming Soon,0,0,0,0,0,89.5%,0,99.9%,0,99.6%,100.0%,0,0,541,2
+37,edgar matoscaceda,A1IG31CP5O0TJR,Fantastic,1103,CDF,Coming Soon,0,0,0,0,0,89.9%,0,99.9%,0,98.7%,100.0%,0,0,688,24
+38,Eddy Salinas,ATKTIY69XEAV8,Fantastic,857,CDF,Coming Soon,0,0,0,0,0,79.5%,0,99.9%,0,99.0%,100.0%,0,0,587,2
+39,Johiah Lawful,A1NZ5HU7C062PP,Fantastic,1067,CDF,Coming Soon,0,0,0,0,0,78.3%,0,99.8%,0,99.8%,100.0%,0,0,654,38
+40,Rolman Vallejo,AZ800CP85E356,Fantastic,724,CDF,Coming Soon,0,0,0,0,0,90.5%,0,99.7%,0,98.9%,Coming Soon,0,0,529,0
+41,Shikela Berry,A392YUUYNGMNGB,Fantastic,786,CDF,Coming Soon,0,0,0,0,0,75.8%,0,99.9%,0,99.0%,100.0%,0,0,524,3
+42,Anjelica Mingo,A28RCL5O1GJT1E,Fantastic,589,CDF,Coming Soon,0,0,0,0,0,90.3%,0,99.5%,0,99.0%,100.0%,0,0,203,1
+43,Bradney Manasse,A3QT9Q1GPJY9EJ,Fantastic,934,CDF,Coming Soon,0,0,0,0,0,88.5%,0,99.8%,0,96.8%,100.0%,0,0,555,37
+44,Celia Gonzalezaguirre,A2M1VLD9D8T2LW,Fantastic,803,CDF,Coming Soon,0,0,0,0.3,0,88.3%,0,99.6%,0,99.4%,100.0%,0,0,507,506
+45,Hugo HernandezBonilla,A18CKQEFJR0JMF,Fantastic,712,CDF,Coming Soon,0,0,0,0,0,74.8%,0,99.4%,0,99.1%,100.0%,0,0,333,35
+46,Mpansu Tunkara,A1M3S63IUC18ER,Fantastic,577,CDF,Coming Soon,0,0,0,0,0,85.4%,0,99.5%,0,98.4%,100.0%,0,0,385,5
+47,Isabel Muniz,A388OIOTQQHIVK,Fantastic,343,CDF,Coming Soon,0,0,0,0,0,75.7%,0,99.4%,0,99.2%,100.0%,0,0,250,10
+48,Yared Oghabir,A29245NOZDD1Y7,Fantastic,531,CDF,Coming Soon,0,0,0,0,0,82.5%,0,99.6%,0,97.1%,100.0%,0,0,339,1
+49,Aaron Davis,A1C4BBB5QW29ZU,Fantastic,1126,CDF,Coming Soon,0,0,0,0,0,88.4%,0,99.3%,0,99.5%,100.0%,0,0,629,4
+50,Jose Oliveira,AZQEDSU9XJLTG,Fantastic,648,CDF,Coming Soon,0,0,0,0,0,78.2%,0,99.2%,0,100.0%,100.0%,0,0,416,5
+51,GENESIS DIONISIOPEREZ,A12NBWRB82AQTE,Fantastic,727,CDF,Coming Soon,0,0,0,0,1.3,93.5%,0,99.0%,0,99.0%,100.0%,0,0,482,31
+52,Mecca Brooks,A3CMWA5MEA6BMX,Fantastic,784,CDF,Coming Soon,0,0,0,0,0,71.5%,0,99.4%,0,97.6%,100.0%,0,0,421,100
+53,Pedro PenaPozo,A1C6240DBNDPEG,Fantastic,800,CDF,Coming Soon,0,0,0,0,0,76.7%,0,99.6%,0,99.6%,62.5%,0,0,528,8
+54,Wooten AlexanderE,A3OAXWZDSIXQSX,Fantastic,1095,DSB,Coming Soon,0,0,0,0,0,94.2%,0,99.8%,914,98.2%,100.0%,0,1,722,105
+55,Lendy FilsAime,A85YK6P4QN9S0,Fantastic,1037,CDF,Coming Soon,0,0,0,0,0,90.0%,0,99.0%,0,99.9%,100.0%,0,0,710,12
+56,Marien Munoz,A1EP53A76FUXWU,Fantastic,726,CDF,Coming Soon,0,0,0,0,0,69.2%,0,99.5%,0,99.6%,90.9%,0,0,464,11
+57,Edgar Nievescruz,AVTNVBQALQ446,Fantastic,1075,CDF,Coming Soon,0,0,0,0,0.3,86.0%,0,99.3%,0,98.8%,100.0%,0,0,594,103
+58,Jefferson Diazmoreira,A15DWKYM0W3PGK,Fantastic,959,CDF,Coming Soon,0,0,0,0,0.3,86.3%,0,99.7%,0,99.0%,84.6%,0,0,672,13
+59,Carlos MoralesRodriguez,A2ZN8LDO5JXXJI,Fantastic,940,DSB,Coming Soon,0,0,0,0,0,93.8%,0,99.6%,1064,99.7%,100.0%,0,1,636,8
+60,Imene Vasquez,A3H9N7R3LKKYXJ,Fantastic,361,CDF,Coming Soon,0,0,0,0,0,68.5%,0,99.2%,0,91.4%,100.0%,0,0,267,178
+61,Oliver Diaz,A1AAKPPTI0Y9BT,Fantastic,1053,CDF,Coming Soon,0,0,0,0,0,83.4%,0,99.0%,0,99.8%,98.2%,0,0,581,56
+62,Joseph Holdbrook,AUSURIQ0OHX9G,Fantastic,1148,CDF,Coming Soon,0,0.3,0,0,0,81.8%,0,99.1%,0,98.1%,100.0%,0,0,678,8
+63,Eric Loja,A3KOU497TO8Z3W,Great,675,SSVR,Coming Soon,0,0.7,0,0.3,2,Coming Soon,0,100.0%,0,100.0%,100.0%,0,0,468,476
+64,Christopher Montero,A1G0QJX9FM94UT,Great,798,CDF,Coming Soon,0,0,0,0,1.7,77.1%,0,99.6%,0,99.5%,100.0%,0,0,567,5
+65,Criss Fernandezpigon,AEUVXFWODKMG1,Great,986,CDF,Coming Soon,0,0,0,0,0,80.5%,0,98.9%,0,99.3%,91.7%,0,0,537,12
+66,Eric Loor,A2TAX4NDJBUBTO,Great,961,DSB,Coming Soon,0,0,0,0,0,92.0%,0,99.8%,1041,97.8%,100.0%,0,1,718,3
+68,Niani Vonce,AP3NRFWS0XEW,Great,430,CDF,Coming Soon,3.3,0,0,0,0,86.8%,0,99.3%,0,94.8%,100.0%,0,0,288,153
+69,Fatime Diop,A3QIAH28FPH3BO,Great,968,CDF,Coming Soon,0,0.3,0,0,0.3,88.3%,0,98.7%,0,100.0%,100.0%,0,0,609,12
+70,Adam Alicea,A1TRYOLP1G3W09,Great,379,CDF,Coming Soon,0,0,0,0,0,70.4%,0,97.2%,0,93.8%,100.0%,0,0,193,4
+71,William Romero,A32M2P7YP3EGHR,Great,891,CDF,Coming Soon,0,0,0,0,0,88.3%,0,99.6%,1122,99.7%,92.3%,0,1,613,13
+72,Vinicius Oliveira,A40NRIUBKFB3R,Great,1319,CDF,Coming Soon,0,0,0,0,2.5,92.1%,0,99.6%,758,99.8%,75.0%,0,1,978,4
+73,Elimane Sow,A3JKIWKJFD340F,Great,300,CDF,Coming Soon,0,0,0,0,0,55.2%,0,98.4%,6667,98.8%,100.0%,0,2,162,1
+74,Jaydon Fiori,AQQDNQYCM0CXK,Great,647,CDF,Coming Soon,0,0,0,0,5,43.2%,0,98.0%,0,94.9%,33.3%,0,0,474,6
+75,Lucas Pierrilus,ADY32TWQG8S33,Fair,470,CDF,Coming Soon,0,1.3,0.3,0,2,77.7%,0,99.0%,2165,95.5%,100.0%,0,1,331,1
